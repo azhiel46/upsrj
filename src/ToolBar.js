@@ -46,7 +46,6 @@ const ToolBar = () => {
     </div>
   );
 };
-
 export default ToolBar;
 
 const useStyle = makeStyles({
@@ -63,7 +62,7 @@ const useStyle = makeStyles({
   btn: {
     color: "red",
   },
-  btnsHeader:{
-      paddingTop: '5px'
-  }
+  btnsHeader: {
+    paddingTop: "5px",
+  },
 });

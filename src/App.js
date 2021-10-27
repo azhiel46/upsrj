@@ -53,6 +53,5 @@ const useStyle = makeStyles({
     display: "flex",
     justifyContent: "center",
     paddingTop: "20px",
-    
   },
 });
