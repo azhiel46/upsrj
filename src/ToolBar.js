@@ -28,7 +28,7 @@ const ToolBar = () => {
             variant="text"
             href="https://upsrj.edu.mx/sistemaintegral/web/alumnos.php"
           >
-            <Typography variant="h5" color="#ffffff">
+            <Typography variant="h6" color="#ffffff">
               Site
             </Typography>
           </Button>
@@ -37,7 +37,7 @@ const ToolBar = () => {
             variant="text"
             href="https://sites.google.com/upsrj.edu.mx/iswvirtual/c-home/c-3rd-term/c-visual-programming"
           >
-            <Typography variant="h5" color="#ffffff">
+            <Typography variant="h6" color="#ffffff">
               SAI
             </Typography>
           </Button>

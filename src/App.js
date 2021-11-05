@@ -10,7 +10,6 @@ import { makeStyles } from "@mui/styles";
 
 const App = () => {
   const classes = useStyle();
-
   return (
     <div className={classes.root}>
       <div>
@@ -39,6 +38,9 @@ const App = () => {
 export default App;
 
 const useStyle = makeStyles({
+  root: {
+   
+  },
   rootHeader: {
     display: "flex",
     justifyContent: "center",
